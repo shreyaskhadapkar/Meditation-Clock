@@ -118,22 +118,22 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 250px;
-    width: 250px;
+    height: 240px;
+    width: 240px;
     margin: auto;
     position: relative;
     transform: scale(1);
   }
 
   .gradient-circle {
-    height: 270px;
-    width: 270px;
+    height: 260px;
+    width: 260px;
   }
 
   .pointer-container {
     height: 160px;
-    left: 117px;
-    top: -33.33px;
+    left: 112px;
+    top: -37.67px;
     /* background: red; */
   }
 }
